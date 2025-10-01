@@ -8,7 +8,7 @@ The project uses a dataset of Google Play reviews with the following columns:
 | Column    | Description                    |
 | --------- | ------------------------------ |
 | `content` | Text of the review             |
-| `score`   | Rating given by the user (1–5) |
+| `score`   | Rating given by the user (1 - 5) |
 
 
 ### Tools & Libraries
