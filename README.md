@@ -1,5 +1,4 @@
-This project analyzes negative reviews from the Google Play Store to understand the main problems users face with a mobile app. 
-The goal is to find common issues and group them into categories so app developers can prioritize fixes and improve user experience.
+The goal of this project is to help a mobile app company understand why users are leaving negative reviews on the Google Play Store. Negative reviews can lower the app’s rating and make it harder to attract new users. By analyzing these reviews, the company can identify the main problems and improve the app.
 
 
 ### Dataset
